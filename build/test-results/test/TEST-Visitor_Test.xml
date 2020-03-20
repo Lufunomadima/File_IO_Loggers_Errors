@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Visitor_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-20T21:10:48" hostname="funi" time="0.159">
+  <properties/>
+  <testcase name="fileError()" classname="Visitor_Test" time="0.159"/>
+  <system-out><![CDATA[2020-03-20 23:10:48,604 | Visitor: visitor_no_file.txt (The system cannot find the file specified)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
