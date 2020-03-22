@@ -28,10 +28,10 @@ public class Main {
 
         Visitor objVisit = new Visitor(fullName,nameOfPersonWhoAssistedTheVisitor, comments,dateOfVisit,timeOfVisits, age);
 
-        // Save : IT save the data passes when creating an object
+        
         objVisit.save();
 
-        // load data : load a file containing data of a given visitor
+        
         objVisit.load(fullName);
     }
 }
